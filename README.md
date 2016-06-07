@@ -13,5 +13,5 @@ Build a site using **Python** that shows top rated movies with their Title and T
 * Sign up for getting an API token from [themoviedb](https://www.themoviedb.org/documentation/api)
 
 
-### Demo:
+### Code Walkthrough
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NN_O-DXyp50/0.jpg)](http://www.youtube.com/watch?v=NN_O-DXyp50)
