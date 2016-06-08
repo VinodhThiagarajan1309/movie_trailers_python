@@ -34,9 +34,12 @@ Build a site using **Python** that shows top rated movies with their Title and T
     "vote_average":8.34
     }
     
-Please refer the video for the detailed explanation of this project
+### Screenshots
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NN_O-DXyp50/0.jpg)](http://www.youtube.com/watch?v=NN_O-DXyp50)
+![alt text](http://s20.postimg.org/xg1rg6jv1/Website_Screen_Shot.png "Website Screen shot")
+
+![alt text](http://s20.postimg.org/h6blda971/Website_Screenshot_with_Trailer.png "Website Screen shot with trailer")
+
 
 ### Future Use Cases
 
