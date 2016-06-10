@@ -6,11 +6,18 @@
 
 Build a site using **Python** that shows top rated movies with their Title and Trailer information.The data is fed dynamically by the [themoviedb](https://www.themoviedb.org/documentation/api) api. Since this is a demo website the count of movie listed has been limited to top 15 movies. The number can be configured in moviesDB.py file
 
-### Requirements:
+### Getting Started:
 
 * [Python - based on your OS](https://www.python.org/downloads/)
 * Chrome browser preferably
 * Sign up for getting an API token from [themoviedb](https://www.themoviedb.org/documentation/api)
+
+### Running Instructions
+
+* Download the contents from this [repository](https://github.com/VinodhThiagarajan1309/movie_trailers_python).
+* Open the movieDb.py using the Python IDLE tool installed in your system
+* Run the script (F5)
+* **fresh_tomatoes.html** file will open in your system's default browser and will be saved inside the previously downloaded   folder
 
 
 ### Sample JSON Object that drives the site
